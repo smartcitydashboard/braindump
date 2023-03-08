@@ -1,0 +1,1 @@
+- #Technology, [PostgreSQL License](https://www.opensource.org/licenses/postgresql), a liberal Open Source license, similar to the BSD or MIT licenses.

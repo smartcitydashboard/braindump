@@ -1,0 +1,4 @@
+- #Technology, ([Apache-2.0 license](https://github.com/apache/echarts/blob/master/LICENSE))
+- Very comprehensive and efficient JavaScript visualization library
+- Documentation: https://echarts.apache.org/handbook/en/get-started/
+- (Many) examples: https://echarts.apache.org/examples/en/index.html#chart-type-line

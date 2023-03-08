@@ -1,0 +1,2 @@
+- All pages tagged with #[[Development]] describe procedures and tools that are used to carry out the development process of the [[Smart City Dashboard]] as efficiently and cleanly as possible
+- Comprehensive, automated #Testing ensures functionality and code quality

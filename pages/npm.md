@@ -1,0 +1,13 @@
+- npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well
+- npm consists of three distinct components:
+	- Use the [*website*](https://npmjs.com/) to discover packages, set up profiles, and manage other aspects of your npm experience. For example, you can set up [organizations](https://www.npmjs.com/features) to manage access to public or private packages
+	- The [*CLI*](https://docs.npmjs.com/cli/npm) runs from a terminal, and is how most developers interact with npm
+	- The [*registry*](https://docs.npmjs.com/misc/registry) is a large public database of JavaScript software and the meta-information surrounding it
+- The app shall be split up into modular packages as sensible as possible to facilitate interoperability and easy replacement of components when necessary. Using this approach different data spaces packages can be developed and connected to the core of the application, enabling it to work with all sorts of data providers. Consider the following packages:
+	- [[Core package]]
+		- [[Create-Dashboard-App]] can be used to jumpstart new projects
+	- [[FIWARE package]]
+	- [[Charting package]]
+	- [[Map package]]
+	- [[Deficiency Reporter package]]
+	- [[Info Pin package]]

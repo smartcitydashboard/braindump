@@ -1,0 +1,18 @@
+- #Technology, [Apache-2.0 license](https://github.com/prisma/prisma/blob/main/LICENSE)
+- Prisma is a **next-generation ORM** that consists of these tools:
+	- [**Prisma Client**](https://www.prisma.io/docs/concepts/components/prisma-client): Auto-generated and type-safe query builder for Node.js & TypeScript
+	- [**Prisma Migrate**](https://www.prisma.io/docs/concepts/components/prisma-migrate): Declarative data modeling & migration system
+	- [**Prisma Studio**](https://github.com/prisma/studio): GUI to view and edit data in your database
+- Documentation: https://www.prisma.io/docs
+- Why Prisma?
+	- **Thinking in objects** instead of mapping relational data
+	- **Queries not classes** to avoid complex model objects
+	- **Single source of truth** for database and application models
+	- **Healthy constraints** that prevent common pitfalls and anti-patterns
+	- **An abstraction that makes the right thing easy** ("pit of success")
+	- **Type-safe database queries** that can be validated at compile time
+	- **Less boilerplate** so developers can focus on the important parts of their app
+	- **Auto-completion in code editors** instead of needing to look up documentation
+- Prisma is one of most capable ORMs and works well with the other tech in the stack. This makes it a good fit to enhance the development process
+	- How Prisma and [[Next.js]] fit together: https://www.prisma.io/nextjs
+	- Prisma with [[PostgreSQL]]: https://www.prisma.io/docs/concepts/database-connectors/postgresql

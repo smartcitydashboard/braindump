@@ -1,0 +1,4 @@
+- A PWA is a webpage with additional features (that were previously only available for native applications). Some advantages are e.g. partial offline functionality, the removal of the browser bar and the possibility that users are able to add the app to their home screen
+- Wikipedia about PWAs: https://en.wikipedia.org/wiki/Progressive_web_app
+- [[React]] tutorial on how to make a PWA: https://create-react-app.dev/docs/making-a-progressive-web-app/
+- Example of a [[Next.js]] based PWA: https://github.com/vercel/next.js/tree/canary/examples/progressive-web-app

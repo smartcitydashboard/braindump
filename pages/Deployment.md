@@ -1,0 +1,1 @@
+- All pages tagged with #[[Deployment]] describe procedures and tools that are used to carry out the deployment process of the [[Smart City Dashboard]] as efficiently and cleanly as possible

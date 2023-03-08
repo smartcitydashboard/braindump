@@ -1,0 +1,5 @@
+- #Technology, [MIT license](https://github.com/vercel/next.js/blob/canary/license.md)
+- Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest [[React]] features, and integrating powerful Rust-based JavaScript tooling for the fastest builds
+- Used as [[Frontend]] and [[Backend]] in one
+- Supports many [[Data fetching]] modes and ways to combine them
+- Next.js apps can be become [[Progressive Web App (PWA)]]s

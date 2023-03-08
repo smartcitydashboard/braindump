@@ -1,0 +1,7 @@
+- Data fetching in Next.js allows you to render your content in different ways, depending on your application's use case. These include pre-rendering with **Server-side Rendering** or **Static Generation**, and updating or creating content at runtime with **Incremental Static Regeneration**
+	- [[Static Generation]]
+	- [[Server Side Rendering (SSR)]]
+	- [[Incremental Static Regeneration]]
+	- [[Client Side Rendering]]
+	- [[Hydration]]
+- https://nextjs.org/docs/basic-features/data-fetching/overview

@@ -1,0 +1,3 @@
+- Hydration enables features that are typically associated with (client-side) Single-Page-Apps (for example routing without the need for full page loads) even for statically generated pages
+	- "Statically generated pages are still reactive: [[Next.js]] will **hydrate** your application client-side to give it full interactivity"
+- More information: https://nextjs.org/docs/advanced-features/automatic-static-optimization

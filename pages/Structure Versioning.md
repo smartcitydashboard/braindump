@@ -1,0 +1,6 @@
+- #Feature
+- When a new [[Dashboard Structure]] (such as a Dashboard or Widget) is created via the UI of the Webpage, this is executed by sending a request to the [[Backend]] part of app. There, a new item is created in the [[PostgreSQL]] database
+- Each item in the database consists not only of content but also of metadata such as the visibility or the version of the item. The content of sub items (e.g. information about panels in a widget) is not saved as the actual info, instead a reference to the sub item is saved
+	- Consider this example: _A dashboard contains two panels. Now an administrator changes the content of one of the panels. Thus, the version number of the panel is incremented. The dashboard was therefore not modified by the panel update, as the referenced version is still the original one. The dashboard can now be updated to use the new version of the panel, or it can remain the same, depending on what's required_
+		- As you can see, items can be stored modularly and previous data is never overwritten or deleted, resulting in full backward compatibility
+	- Technically, this can be easily implemented by saving each version of an item as an element of a JSON array in the database: https://www.postgresql.org/docs/9.3/functions-json.html

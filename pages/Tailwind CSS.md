@@ -1,0 +1,2 @@
+- #Technology, [MIT license](https://github.com/tailwindlabs/tailwindcss/blob/master/LICENSE)
+- Integrates very well with [[Next.js]], supports [[Server Side Rendering (SSR)]]

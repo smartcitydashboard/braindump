@@ -1,0 +1,5 @@
+- #Technology, [MIT license](https://github.com/storybookjs/storybook/blob/next/LICENSE)
+- This tool is not used in production like other technologies, but it can be used to improve the (UI-) #[[Development]]
+- Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. Find out more at [https://storybook.js.org](https://storybook.js.org/)
+- Documentation: https://storybook.js.org/docs/react/get-started/introduction
+- How to setup [[Next.js]] and Storybook: https://storybook.js.org/recipes/next#next

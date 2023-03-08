@@ -1,0 +1,2 @@
+- Polls data from the data platform of the city
+	- if the data platform is FIWARE-based, the [[FIWARE package]] can be used to streamline the process

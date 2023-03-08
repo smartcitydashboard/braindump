@@ -1,0 +1,6 @@
+- [[Next.js]] allows you to create or update static pages *after* you’ve built your site. Incremental Static Regeneration (ISR) enables you to use static-generation on a per-page basis, **without needing to rebuild the entire site**. With ISR, you can retain the benefits of static while scaling to millions of pages
+- https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration
+- Individual pages can be revalidated on-demand: https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration#using-on-demand-revalidation
+	- this allows for regeneration when
+		- Administrator want to publish new Dashboards or versions of Dashboards
+		- Data was polled from a [[Data Space]]

@@ -1,0 +1,2 @@
+- If a page uses **Static Generation**, the page HTML is generated at **build time**. That means in production, the page HTML is generated when you run `next build` . This HTML will then be reused on each request. It can be cached by a CDN
+- https://nextjs.org/docs/basic-features/pages#static-generation

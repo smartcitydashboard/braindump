@@ -1,0 +1,3 @@
+- Package that offers functionality to help the [[Backend]] get data from FIWARE components such as
+	- Orion Context Broker
+	- QuantumLeap

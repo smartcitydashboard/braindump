@@ -1,0 +1,2 @@
+- #Feature, requires the [[Map package]]
+- This package is similar to the [[Deficiency Reporter package]] package in that it also provides the municipality with the ability to visualize location-based information on a map. The major difference is that the information shown via this package comes from the administration and not from the citizens. Thus, it is suitable for use cases such as informing about construction measures, events, closures, etc.

@@ -1,0 +1,4 @@
+- With regards to the [[Dashboard Structure]]
+	- Users are able to administer their own dashboards
+	- Administrators are able to modify and publish boards that are publicly accessible
+		- For this they have the possibility to save the panels they create into a [[Panel Catalogue]]

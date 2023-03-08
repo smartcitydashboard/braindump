@@ -1,0 +1,3 @@
+- Edag's _Smart City Dashboard_ aims to be the central interface for citizens and municipalities. The software is open source, modular and leverages the latest web technology to deliver the highest level of user experience
+- Link to the GitHub org: https://github.com/smartcitydashboard
+- Link to the [[npm]] org: https://www.npmjs.com/settings/smartcitydashboard/packages

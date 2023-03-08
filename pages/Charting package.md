@@ -1,0 +1,7 @@
+- #Feature
+- Offers the possibility to visualize data (inside of Panels) with different chart types
+	- The charts are implemented with [[Apache ECharts]]
+- Chart types and their proposed utilization
+	- **Donut charts** show values in relation to a certain maximum and are thus well suited for displaying e.g. utilization rates
+	- **Bar charts** display (historical) values by means of bars. These always originate at the zero point and are therefore best suited for displaying data with considerable fluctuations within values, such as visitor count data. While the maximum for donut charts is implied in the chart, for bar charts a manual maximum value can be defined independently of the data
+	- **Line charts** are very similar to bar charts in the way they work. A significant difference, however, is that values do not start at zero, which makes line charts more suitable for visualizing smaller variations in value. For example, line charts can be used to show temperature fluctuations of just a few degrees
